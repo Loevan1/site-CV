@@ -1,6 +1,48 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color: #fcfcfc;
 }
-#exp{
-    border-radius: 10%;
+
+h1{
+    color: #01060a;
+}
+h2{
+    color: #003B73; 
+}
+h3{
+    color: #2E8B57;;
+}
+
+a:link {
+  color:#003B73;
+  text-decoration:none;
+}
+
+a:visited {
+  color:#003B73;
+}
+
+a:hover {
+  color: rgb(45, 115, 255);
+}
+
+a:active {
+  color: rgb(251, 11, 11);
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    background-color: #003B73;
+}
+#logoLycee{
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+#logotel{
+    width:25px;
+    margin-right: 10px;
 }
