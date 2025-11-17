@@ -35,6 +35,27 @@ header{
     margin: 0;
     padding: 0;
     background-color: #003B73;
+    display:flex;
+    
+    
+}
+#copyright{
+  background-color: #003B73;
+  color: white;
+  margin-left: 20px;
+}
+
+#fin{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #003B73;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+
 }
 #logoLycee{
     margin-left: 5px;
@@ -46,3 +67,33 @@ header{
     width:25px;
     margin-right: 10px;
 }
+
+#conteneur {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+#gauche {
+    
+    margin-left: 50px;
+}
+
+#droite {
+    width: 60%;
+    margin-right: 50px;
+}
+
+#contact{
+  padding: 15px;
+  border:1px solid ;
+  border-radius: 10px;
+  margin: 10px;
+}
+#competences{
+  padding: 15px;
+  border:1px solid ;
+  border-radius: 10px;
+}
+
