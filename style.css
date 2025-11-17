@@ -76,11 +76,16 @@ header{
 }
 
 #gauche {
-    
+    margin-top: 100px;
     margin-left: 50px;
+    margin-bottom: 20px;
+    border:1px solid ;
+    border-radius: 10px;
+    background-color: rgba(248, 235, 217, 0.466);
 }
 
 #droite {
+  margin-top: 30px;
     width: 60%;
     margin-right: 50px;
 }
@@ -95,5 +100,16 @@ header{
   padding: 15px;
   border:1px solid ;
   border-radius: 10px;
+  margin: 10px;
 }
 
+#interet{
+  padding: 15px;
+  border:1px solid ;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#profil{
+  margin-top: 20px;
+}
