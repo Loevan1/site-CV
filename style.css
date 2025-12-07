@@ -36,8 +36,11 @@ header{
     padding: 0;
     background-color: #003B73;
     display:flex;
+    padding-bottom: 5px;
     
-    
+}
+footer{
+  margin-top: 40px;
 }
 #copyright{
   background-color: #003B73;
@@ -76,8 +79,9 @@ header{
 }
 
 #gauche {
+  
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 8%;
     margin-bottom: 20px;
     border:1px solid ;
     border-radius: 10px;
@@ -85,9 +89,10 @@ header{
 }
 
 #droite {
-  margin-top: 30px;
-    width: 60%;
-    margin-right: 50px;
+  margin-top: 50px;
+  margin-left: 13%;
+  width: 55%;
+  margin-right: 6%;
 }
 
 #contact{
@@ -111,5 +116,21 @@ header{
 }
 
 #profil{
+  
+  text-align: justify;
+  margin: 10px;
   margin-top: 20px;
+}
+
+#formation{
+  margin: 10px;
+  margin-top: 30px;
+  line-height: 30px;
+
+}
+
+#exp{
+  margin: 10px;
+  margin-top: 30px;
+  line-height: 30px;
 }
